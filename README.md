@@ -1,0 +1,1 @@
+Progress steps bar with HTML, CSS and JavaScript
